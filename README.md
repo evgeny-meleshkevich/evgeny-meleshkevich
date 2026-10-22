@@ -76,5 +76,5 @@ I start with the problem, choose the tools to fit it, and work through the detai
 
 <div align="center">
   <p>💡 <i>Explore the projects, see how they work and try them locally.</i></p>
-  <a href="https://evgeny-meleshkevich.github.io/"><b>👉 See project walkthroughs & screenshots</b></a>
+  <a href="https://evgeny-meleshkevich.github.io/"><b>Discover My Work</b></a>
 </div>
