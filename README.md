@@ -18,9 +18,9 @@
 
 ### 👨‍💻 About Me
 
-I build applications that help people collect data, compare options and spend less time on repetitive work. My projects include a macOS assistant, vehicle monitoring tools, vacancy analytics, document automation and image upscaling.
+I design and develop software for a range of practical needs — from specialized tools to applications that bring several workflows together. My projects include AI assistants, data analysis tools, document automation and cloud image processing.
 
-I connect APIs, local tools and AI models into applications with a clear purpose and a usable interface.
+I start with the problem, choose the tools to fit it, and work through the details until the application does what it needs to do.
 
 ---
 
